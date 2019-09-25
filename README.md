@@ -3,7 +3,7 @@ Do you need to set up an ACI fabric in network-centric naming mode from scratch?
 
 With a bit of renaming and node-id modification, you can leverage these scripts to setup a production, physical environment. The components here should give you enough to get a base deployment off the ground. 
 
-The ACI Simulator is a fantastic resource for planning out an ACI implementation. Virtaully everything can be pre-configured and tested prior to performing the actual deployment. [Cisco dCloud](https://dcloud.cisco.com) offers ACI sandboxes that allow you to test and validate your scripts prior to implementation. 
+The ACI Simulator is a fantastic resource for planning out an ACI implementation. Virtually everything can be pre-configured and tested prior to performing the actual deployment. [Cisco dCloud](https://dcloud.cisco.com) offers ACI sandboxes that allow you to test and validate your scripts prior to implementation. 
 
 There are five Postman collections, each broken out into multiple activities. Here's the summary:
 
